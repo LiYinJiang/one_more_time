@@ -1,12 +1,16 @@
-#注意缩进一定要是用空格，注意缩进格式
+# Yaml 文件基本规则
+# 1.大小写敏感
+# 2.使用缩进表示层级关系
+# 3.缩进时不允许使用Tab键，只允许使用空格。
+# 4.缩进的空格数目不重要，只要相同层级的元素左侧对齐即可
 edric: #英文名称
-  - date: 20190821 #日期,注意月份和日期都占两位
-    startTime: 9:10 #锻炼开始时间
-    endTime: 10:00 #锻炼结束时间
+  - date: 2019-08-21 #日期,注意月份和日期都占两位
+    startTime: 20:10 #锻炼开始时间，使用24H制
+    endTime: 21:00 #锻炼结束时间
     intensity: low #锻炼强度，可选low/moderate/high
     say: "come on" #说你想说的
-  - date: 20190825
-    startTime: 9:00
-    endTime: 9:40
+  - date: 2019-08-25
+    startTime: 21:00
+    endTime: 21:40
     intensity: low
     say: "i did it"
