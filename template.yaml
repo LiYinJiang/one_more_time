@@ -1,0 +1,12 @@
+#注意缩进一定要是用空格，注意缩进格式
+edric: #英文名称
+  - date: 20190821 #日期,注意月份和日期都占两位
+    startTime: 9:10 #锻炼开始时间
+    endTime: 10:00 #锻炼结束时间
+    intensity: low #锻炼强度，可选low/moderate/high
+    say: "come on" #说你想说的
+  - date: 20190825
+    startTime: 9:00
+    endTime: 9:40
+    intensity: low
+    say: "i did it"
