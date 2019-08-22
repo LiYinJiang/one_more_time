@@ -4,3 +4,8 @@ edric:
     endTime: 22:22
     intensity: low
     say: "i love Scarlett Johansson"
+  - date: 2019-08-22
+    startTime: 21:29
+    endTime: 22:14
+    intensity: low
+    say: "overwork is bad for my health,so need to be had physical training."
