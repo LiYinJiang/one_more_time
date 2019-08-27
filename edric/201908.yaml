@@ -14,3 +14,8 @@ edric:
     endTime: 15:46
     intensity: low
     say: "life is but an empty dream."
+  - date: 2019-08-27
+    startTime: 21:49
+    endTime: 22:32
+    intensity: low
+    say: "time waits for none."
