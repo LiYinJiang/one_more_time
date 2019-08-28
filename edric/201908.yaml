@@ -19,3 +19,8 @@ edric:
     endTime: 22:32
     intensity: low
     say: "time waits for none."
+  - date: 2019-08-28
+    startTime: 22:11
+    endTime: 22:56
+    intensity: low
+    say: "value your capabilities and talents, for they are what make you truly unique"
