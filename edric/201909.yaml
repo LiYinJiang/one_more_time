@@ -9,3 +9,8 @@ edric:
     endTime: 22:13
     intensity: low
     say: "many a summmer the grass has grown green, blossommed and faded, our faces between"
+  - date: 2019-09-03
+    startTime: 22:07
+    endTime: 22:58
+    intensity: low
+    say: "variety is the spice of life"
