@@ -14,3 +14,8 @@ edric:
     endTime: 22:58
     intensity: low
     say: "variety is the spice of life"
+  - date: 2019-09-07
+    startTime: 21:15
+    endTime: 21:58
+    intensity: low
+    say: "life is a horse,and either you ride it or it rides you"
